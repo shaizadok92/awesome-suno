@@ -145,6 +145,7 @@ External articles worth reading about Suno:
 - [**suno-prompt-scorer**](https://github.com/shaizadok92/suno-prompt-scorer) — Zero-dependency TypeScript/JavaScript library that scores Suno prompts on a 100-point scale across 4 metrics (length, tag collisions, specificity, density). MIT-licensed. Also available as a [free public API](https://acetaggen.com/api/suno-score).
 - [AceTagGen Public Scorer API](https://acetaggen.com/api/suno-score) — CORS-enabled HTTP endpoint for scoring Suno prompts from any web app. `GET /api/suno-score?prompt=...` — no auth, no rate-limit.
 - [Suno API wrappers (GitHub)](https://github.com/search?q=suno+api&type=repositories) — Unofficial community wrappers. Suno has no official public API.
+- [RunAPI Suno SDK](https://github.com/runapi-ai/suno-sdk) — JavaScript, Ruby, Go, and Python SDKs for creating Suno generation jobs through RunAPI.
 - [AceTagGen GitHub](https://github.com/shaizadok92/acetaggen) — Example implementation.
 
 ---
