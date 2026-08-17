@@ -115,6 +115,7 @@ For a complete Suno workflow.
 - [Audacity](https://www.audacityteam.org) — Free open-source DAW.
 - [LALAL.AI](https://www.lalal.ai) — Stem separation for remixing Suno tracks.
 - [Adobe Audition](https://www.adobe.com/products/audition.html) — Professional post-production.
+- [MusicCanvas](https://kkwd21.gumroad.com/l/musiccanvas) - Converts Suno tracks into YouTube-ready music videos with lyric sync and audio-reactive effects.
 
 ### Distribution
 
