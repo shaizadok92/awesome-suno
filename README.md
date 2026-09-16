@@ -50,6 +50,7 @@ Tools that help you write better Suno prompts before generating.
 
 - [Suno AI Wiki: Metatags](https://sunoaiwiki.com) — Community meta tag reference covering structural, vocal, instrument, and effects categories.
 - [AceTagGen Example Library](https://acetaggen.com) — Genre-grouped tested prompt combinations.
+- [Suno Style Recipes](https://github.com/samuelgrupolimex-prog/suno-style-recipes) — 564 genre style prompts with BPM, weirdness and style influence. CC0; CSV, JSON, Parquet.
 
 > **Note**: Suno tag behavior differs between versions (v4 vs v4.5 vs v5). Always test on your target version.
 
