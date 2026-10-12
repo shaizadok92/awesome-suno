@@ -43,7 +43,7 @@ Tools that help you write better Suno prompts before generating.
 - [**AceTagGen**](https://acetaggen.com) — Free structured prompt builder for Suno AI. Pick mood, genre, instruments, SFX from 3,000+ curated tags; outputs a Suno-ready prompt that respects the 200-character Style field. Includes quality-score validator, example library, and AI Chat mode (Premium).
 - [Suno Prompt Builder at usesuno.com](https://usesuno.com/tools) — Community-built prompt helpers.
 - Generic LLMs (ChatGPT, Claude) — Can generate prompts but often exceed Suno's 200-char Style limit and include tags Suno silently ignores.
-
+- [UseSuno](https://usesuno.online) — Free browser suite for Suno creators: bulk playlist/MP3 downloader, stem extractor, and prompt studio.
 ---
 
 ## Meta Tag References
