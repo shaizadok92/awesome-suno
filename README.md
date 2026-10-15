@@ -114,6 +114,7 @@ For a complete Suno workflow.
 
 - [Audacity](https://www.audacityteam.org) — Free open-source DAW.
 - [LALAL.AI](https://www.lalal.ai) — Stem separation for remixing Suno tracks.
+- [LoopForge](https://loopforge.net) — Loops a Suno track into 10 min–8 h of seamless audio or still-image video; trims fades, crossfades the seam.
 - [Adobe Audition](https://www.adobe.com/products/audition.html) — Professional post-production.
 
 ### Distribution
