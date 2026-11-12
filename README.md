@@ -116,6 +116,10 @@ For a complete Suno workflow.
 - [LALAL.AI](https://www.lalal.ai) — Stem separation for remixing Suno tracks.
 - [Adobe Audition](https://www.adobe.com/products/audition.html) — Professional post-production.
 
+### AI Detection
+
+- [Suno Checker](https://sunochecker.com/) — Free check for whether a track was made with Suno or Udio; marks the AI sections and estimates the Suno version.
+
 ### Distribution
 
 - [DistroKid](https://distrokid.com), [SoundCloud](https://soundcloud.com), [BandCamp](https://bandcamp.com).
